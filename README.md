@@ -1,4 +1,5 @@
-# [![Upptime](https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/logo.svg)](https://upptime.js.org)
+# ![TrinitiLogo](https://www.appset.nl/triniti_logo_V2.png)
+
 
 <!--start: description-->
 
