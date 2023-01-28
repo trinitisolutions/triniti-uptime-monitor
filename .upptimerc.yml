@@ -50,7 +50,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /triniti-uptime-monitor
-  logoUrl: https://www.appset.nl/triniti_logo_V2.png
+  logoUrl: https://www.appset.nl/logo%20V2%20with%20solutions%20v2%20trans.png
   name: Triniti Solutions Platform
   introTitle: "Uptime information of the Triniti Solutions Platform"
   introMessage: This page shows the uptime information of all the relevent services of the Triniti Solutions Platform
