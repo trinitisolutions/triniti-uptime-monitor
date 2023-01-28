@@ -1,27 +1,62 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: trinitisolutions # Your GitHub organization or username, where this repository lives
+repo: triniti-uptime-monitor # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Businesses, Modules, Products, Services, Orders
+    url: https://api.trinitisolutions.nl/v1/Businesses/trinitisolutions
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
+  - name: Pages/Blocks
+    url: https://api.trinitisolutions.nl/v1/Pages/1
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 400
+      - 404
+  - name: Images
+    url: https://api.trinitisolutions.nl/v1/images/imageUpload/fileUrl
+  - name: Appointments
+    url: https://api.trinitisolutions.nl/v1/appointments/1
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 400
+      - 404
+  - name: Appointments
+    url: https://api.trinitisolutions.nl/v1/appointments/1
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 400
+      - 404
+  - name: Reviews
+    url: https://api.trinitisolutions.nl/v1/likes
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 400
+      - 404
+  - name: Calipso Service
+    url: https://api.trinitisolutions.nl/v1/Calipso/customers
+    expectedStatusCodes:
+      - 401
+      - 404
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  # cname: demo.upptime.js.org
+  baseUrl: /triniti-uptime-monitor
+  logoUrl: https://www.appset.nl/triniti_logo_V2.png
+  name: Triniti Solutions Platform
+  introTitle: "Uptime information of the Triniti Solutions Platform"
+  introMessage: This page shows the uptime information of all the relevent services of the Triniti Solutions Platform
   navbar:
+    - title: Home
+      href: https://trinitisolutions.nl
     - title: Status
       href: /
     - title: GitHub
