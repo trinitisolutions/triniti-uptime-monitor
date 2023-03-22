@@ -40,18 +40,20 @@
     "url": "https://api.trinitisolutions.nl/v1/images/imageUpload/fileUrl",
     "icon": "https://icons.duckduckgo.com/ip3/api.trinitisolutions.nl.ico",
     "slug": "images",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 115,
-    "timeDay": 146,
-    "timeWeek": 113,
-    "timeMonth": 113,
-    "timeYear": 115,
-    "dailyMinutesDown": {}
+    "time": 241,
+    "timeDay": 3673,
+    "timeWeek": 999,
+    "timeMonth": 357,
+    "timeYear": 241,
+    "dailyMinutesDown": {
+      "2023-03-22": 1
+    }
   },
   {
     "name": "Appointments",
