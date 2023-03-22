@@ -22,19 +22,19 @@
     "url": "https://api.trinitisolutions.nl/v1/Pages/1",
     "icon": "https://icons.duckduckgo.com/ip3/api.trinitisolutions.nl.ico",
     "slug": "pages-blocks",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 117,
-    "timeDay": 122,
-    "timeWeek": 112,
-    "timeMonth": 112,
-    "timeYear": 117,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 166,
+    "timeDay": 1044,
+    "timeWeek": 420,
+    "timeMonth": 204,
+    "timeYear": 166,
     "dailyMinutesDown": {
-      "2023-03-22": 1
+      "2023-03-22": 7
     }
   },
   {
@@ -44,9 +44,9 @@
     "slug": "images",
     "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "95.90%",
-    "uptimeWeek": "99.41%",
-    "uptimeMonth": "99.87%",
+    "uptimeDay": "95.47%",
+    "uptimeWeek": "99.35%",
+    "uptimeMonth": "99.85%",
     "uptimeYear": "99.92%",
     "time": 241,
     "timeDay": 3673,
@@ -54,7 +54,7 @@
     "timeMonth": 357,
     "timeYear": 241,
     "dailyMinutesDown": {
-      "2023-03-22": 59
+      "2023-03-22": 65
     }
   },
   {
@@ -116,19 +116,19 @@
     "url": "https://api.trinitisolutions.nl/v1/Calipso/customers",
     "icon": "https://icons.duckduckgo.com/ip3/api.trinitisolutions.nl.ico",
     "slug": "calipso-service",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 121,
-    "timeDay": 134,
-    "timeWeek": 130,
-    "timeMonth": 119,
-    "timeYear": 121,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.57%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 126,
+    "timeDay": 220,
+    "timeWeek": 159,
+    "timeMonth": 128,
+    "timeYear": 126,
     "dailyMinutesDown": {
-      "2023-03-22": 0
+      "2023-03-22": 6
     }
   }
 ]
