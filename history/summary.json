@@ -22,18 +22,20 @@
     "url": "https://api.trinitisolutions.nl/v1/Pages/1",
     "icon": "https://icons.duckduckgo.com/ip3/api.trinitisolutions.nl.ico",
     "slug": "pages-blocks",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 118,
-    "timeDay": 145,
-    "timeWeek": 114,
+    "time": 117,
+    "timeDay": 122,
+    "timeWeek": 112,
     "timeMonth": 112,
-    "timeYear": 118,
-    "dailyMinutesDown": {}
+    "timeYear": 117,
+    "dailyMinutesDown": {
+      "2023-03-22": 1
+    }
   },
   {
     "name": "Images",
@@ -41,18 +43,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.trinitisolutions.nl.ico",
     "slug": "images",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.92%",
+    "uptimeDay": "95.90%",
+    "uptimeWeek": "99.41%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.92%",
     "time": 241,
     "timeDay": 3673,
     "timeWeek": 999,
     "timeMonth": 357,
     "timeYear": 241,
     "dailyMinutesDown": {
-      "2023-03-22": 1
+      "2023-03-22": 59
     }
   },
   {
@@ -114,17 +116,19 @@
     "url": "https://api.trinitisolutions.nl/v1/Calipso/customers",
     "icon": "https://icons.duckduckgo.com/ip3/api.trinitisolutions.nl.ico",
     "slug": "calipso-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 121,
-    "timeDay": 148,
-    "timeWeek": 132,
+    "timeDay": 134,
+    "timeWeek": 130,
     "timeMonth": 119,
     "timeYear": 121,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-22": 0
+    }
   }
 ]
