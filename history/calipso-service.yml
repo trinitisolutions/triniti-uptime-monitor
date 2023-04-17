@@ -1,7 +1,7 @@
 url: https://api.trinitisolutions.nl/v1/Calipso/customers
-status: down
-code: 503
-responseTime: 131
-lastUpdated: 2023-04-17T16:32:46.094Z
+status: up
+code: 401
+responseTime: 1497
+lastUpdated: 2023-04-17T16:50:13.882Z
 startTime: Sat Jan 28 2023 08:58:56 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
