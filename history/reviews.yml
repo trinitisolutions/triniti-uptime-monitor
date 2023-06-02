@@ -1,7 +1,7 @@
 url: https://api.trinitisolutions.nl/v1/likes
-status: down
-code: 500
-responseTime: 649
-lastUpdated: 2023-06-02T21:43:43.790Z
+status: up
+code: 200
+responseTime: 1177
+lastUpdated: 2023-06-02T21:50:53.764Z
 startTime: Sat Jan 28 2023 08:58:54 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
