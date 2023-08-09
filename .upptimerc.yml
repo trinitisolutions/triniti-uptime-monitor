@@ -16,8 +16,8 @@ sites:
       - 201
       - 400
       - 404
-  - name: Images
-    url: https://api.trinitisolutions.nl/v1/images/imageUpload/fileUrl
+  # - name: Images
+  #   url: https://api.trinitisolutions.nl/v1/images/imageUpload/fileUrl
   - name: Appointments
     url: https://api.trinitisolutions.nl/v1/appointments/1
     expectedStatusCodes:
