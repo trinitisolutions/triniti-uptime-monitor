@@ -25,13 +25,6 @@ sites:
       - 201
       - 400
       - 404
-  - name: Appointments
-    url: https://api.trinitisolutions.nl/v1/appointments/1
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 400
-      - 404
   - name: Reviews
     url: https://api.trinitisolutions.nl/v1/likes
     expectedStatusCodes:
