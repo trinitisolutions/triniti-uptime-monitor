@@ -50,18 +50,20 @@
     "url": "https://api.trinitisolutions.nl/v1/appointments/1",
     "icon": "https://icons.duckduckgo.com/ip3/api.trinitisolutions.nl.ico",
     "slug": "appointments",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 154,
-    "timeDay": 146,
-    "timeWeek": 127,
-    "timeMonth": 597,
+    "timeDay": 155,
+    "timeWeek": 130,
+    "timeMonth": 585,
     "timeYear": 154,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-01": 0
+    }
   },
   {
     "name": "Reviews",
