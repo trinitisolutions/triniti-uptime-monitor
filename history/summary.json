@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 426,
-    "timeDay": 464,
-    "timeWeek": 433,
-    "timeMonth": 437,
-    "timeYear": 426,
+    "time": 427,
+    "timeDay": 607,
+    "timeWeek": 476,
+    "timeMonth": 448,
+    "timeYear": 427,
     "dailyMinutesDown": {
       "2023-04-17": 19
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.69%",
     "time": 139,
-    "timeDay": 146,
-    "timeWeek": 121,
-    "timeMonth": 116,
+    "timeDay": 147,
+    "timeWeek": 129,
+    "timeMonth": 118,
     "timeYear": 139,
     "dailyMinutesDown": {
       "2023-04-17": 772,
@@ -52,18 +52,16 @@
     "slug": "appointments",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.03%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 154,
     "timeDay": 141,
-    "timeWeek": 131,
-    "timeMonth": 551,
+    "timeWeek": 135,
+    "timeMonth": 553,
     "timeYear": 154,
-    "dailyMinutesDown": {
-      "2023-10-01": 14
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Reviews",
@@ -76,11 +74,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1021,
-    "timeDay": 148,
-    "timeWeek": 139,
-    "timeMonth": 1327,
-    "timeYear": 1021,
+    "time": 1020,
+    "timeDay": 933,
+    "timeWeek": 259,
+    "timeMonth": 1331,
+    "timeYear": 1020,
     "dailyMinutesDown": {}
   },
   {
@@ -95,9 +93,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 123,
-    "timeDay": 142,
-    "timeWeek": 117,
-    "timeMonth": 108,
+    "timeDay": 144,
+    "timeWeek": 125,
+    "timeMonth": 110,
     "timeYear": 123,
     "dailyMinutesDown": {
       "2023-04-17": 17
