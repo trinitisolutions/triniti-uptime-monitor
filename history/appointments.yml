@@ -1,7 +1,7 @@
 url: https://api.trinitisolutions.nl/v1/appointments/1
-status: down
-code: 503
-responseTime: 188
-lastUpdated: 2023-10-10T22:47:26.792Z
+status: up
+code: 404
+responseTime: 93
+lastUpdated: 2023-10-10T22:54:41.797Z
 startTime: 2023-01-28T08:58:53.000Z
 generator: Upptime <https://github.com/upptime/upptime>
