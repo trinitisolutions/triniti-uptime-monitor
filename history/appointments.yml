@@ -1,7 +1,7 @@
-url: https://api.trinitisolutions.nl/v1/appointments/1
+url: https://api.appset.nl/v1/appointments/1
 status: up
-code: 404
-responseTime: 92
-lastUpdated: 2023-10-12T23:07:37.734Z
+code: 400
+responseTime: 117
+lastUpdated: 2023-10-13T07:47:20.808Z
 startTime: 2023-01-28T08:58:53.000Z
 generator: Upptime <https://github.com/upptime/upptime>
