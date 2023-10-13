@@ -4,36 +4,36 @@ repo: triniti-uptime-monitor # The name of this repository
 
 sites:
   - name: Businesses, Modules, Products, Services, Orders
-    url: https://api.trinitisolutions.nl/v1/Businesses/trinitisolutions
+    url: https://api.appset.nl/v1/Businesses/trinitisolutions
     expectedStatusCodes:
       - 200
       - 201
       - 404
   - name: Pages/Blocks
-    url: https://api.trinitisolutions.nl/v1/Pages/1
+    url: https://api.appset.nl/v1/Pages/1
     expectedStatusCodes:
       - 200
       - 201
       - 400
       - 404
   # - name: Images
-  #   url: https://api.trinitisolutions.nl/v1/images/imageUpload/fileUrl
+  #   url: https://api.appset.nl/v1/images/imageUpload/fileUrl
   - name: Appointments
-    url: https://api.trinitisolutions.nl/v1/appointments/1
+    url: https://api.appset.nl/v1/appointments/1
     expectedStatusCodes:
       - 200
       - 201
       - 400
       - 404
   - name: Reviews
-    url: https://api.trinitisolutions.nl/v1/likes
+    url: https://api.appset.nl/v1/likes
     expectedStatusCodes:
       - 200
       - 201
       - 400
       - 404
   - name: Calipso Service
-    url: https://api.trinitisolutions.nl/v1/Calipso/customers
+    url: https://api.appset.nl/v1/Calipso/customers
     expectedStatusCodes:
       - 401
       - 404
