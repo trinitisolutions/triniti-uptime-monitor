@@ -1,7 +1,7 @@
-url: https://api.trinitisolutions.nl/v1/Calipso/customers
+url: https://api.appset.nl/v1/Calipso/customers
 status: up
 code: 404
-responseTime: 87
-lastUpdated: 2023-10-12T23:07:38.554Z
+responseTime: 114
+lastUpdated: 2023-10-13T07:47:21.795Z
 startTime: 2023-01-28T08:58:56.000Z
 generator: Upptime <https://github.com/upptime/upptime>
