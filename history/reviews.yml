@@ -1,7 +1,7 @@
-url: https://api.trinitisolutions.nl/v1/likes
+url: https://api.appset.nl/v1/likes
 status: up
-code: 404
-responseTime: 164
-lastUpdated: 2023-10-12T23:07:38.181Z
+code: 200
+responseTime: 304
+lastUpdated: 2023-10-13T07:47:21.394Z
 startTime: 2023-01-28T08:58:54.000Z
 generator: Upptime <https://github.com/upptime/upptime>
