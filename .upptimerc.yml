@@ -49,7 +49,7 @@ status-website:
   introMessage: This page shows the uptime information of all the relevent services of the Triniti Solutions Platform
   navbar:
     - title: Home
-      href: https://trinitisolutions.nl
+      href: https://appset.nl
     - title: Status
       href: /
     - title: GitHub
