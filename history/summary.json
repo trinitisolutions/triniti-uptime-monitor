@@ -50,19 +50,19 @@
     "url": "https://api.appset.nl/v1/appointments/1",
     "icon": "https://icons.duckduckgo.com/ip3/api.appset.nl.ico",
     "slug": "appointments",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 157,
-    "timeDay": 638,
-    "timeWeek": 262,
-    "timeMonth": 169,
-    "timeYear": 157,
+    "time": 160,
+    "timeDay": 865,
+    "timeWeek": 356,
+    "timeMonth": 202,
+    "timeYear": 160,
     "dailyMinutesDown": {
-      "2023-10-16": 0
+      "2023-10-16": 7
     }
   },
   {
