@@ -4,9 +4,9 @@
     "url": "https://api.appset.nl/v1/Businesses/trinitisolutions",
     "icon": "https://icons.duckduckgo.com/ip3/api.appset.nl.ico",
     "slug": "businesses-modules-products-services-orders",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 430,
     "timeYear": 444,
     "dailyMinutesDown": {
+      "2023-11-16": 0,
       "2023-04-17": 19
     }
   },
@@ -24,9 +25,9 @@
     "url": "https://api.appset.nl/v1/Pages/1",
     "icon": "https://icons.duckduckgo.com/ip3/api.appset.nl.ico",
     "slug": "pages-blocks",
-    "status": "up",
+    "status": "down",
     "uptime": "98.05%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.05%",
@@ -36,6 +37,7 @@
     "timeMonth": 105,
     "timeYear": 135,
     "dailyMinutesDown": {
+      "2023-11-16": 0,
       "2023-04-17": 772,
       "2023-04-16": 1440,
       "2023-04-15": 1440,
@@ -50,19 +52,19 @@
     "url": "https://api.appset.nl/v1/appointments/1",
     "icon": "https://icons.duckduckgo.com/ip3/api.appset.nl.ico",
     "slug": "appointments",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.57%",
-    "uptimeMonth": "99.82%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.84%",
     "uptimeYear": "99.98%",
     "time": 298,
-    "timeDay": 822,
-    "timeWeek": 1000,
-    "timeMonth": 916,
+    "timeDay": 608,
+    "timeWeek": 984,
+    "timeMonth": 908,
     "timeYear": 298,
     "dailyMinutesDown": {
-      "2023-11-16": 7,
+      "2023-11-16": 0,
       "2023-11-12": 36,
       "2023-10-31": 16,
       "2023-10-23": 20
@@ -73,9 +75,9 @@
     "url": "https://api.appset.nl/v1/likes",
     "icon": "https://icons.duckduckgo.com/ip3/api.appset.nl.ico",
     "slug": "reviews",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -84,16 +86,18 @@
     "timeWeek": 730,
     "timeMonth": 884,
     "timeYear": 970,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-16": 0
+    }
   },
   {
     "name": "Calipso Service",
     "url": "https://api.appset.nl/v1/Calipso/customers",
     "icon": "https://icons.duckduckgo.com/ip3/api.appset.nl.ico",
     "slug": "calipso-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -103,6 +107,7 @@
     "timeMonth": 104,
     "timeYear": 121,
     "dailyMinutesDown": {
+      "2023-11-16": 0,
       "2023-04-17": 17
     }
   }
