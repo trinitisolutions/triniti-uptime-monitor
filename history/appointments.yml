@@ -1,7 +1,7 @@
 url: https://api.appset.nl/v1/appointments/1
-status: down
-code: 503
-responseTime: 91
-lastUpdated: 2024-01-12T17:47:43.784Z
+status: up
+code: 400
+responseTime: 2245
+lastUpdated: 2024-01-12T17:54:50.482Z
 startTime: 2023-01-28T08:58:53.000Z
 generator: Upptime <https://github.com/upptime/upptime>
