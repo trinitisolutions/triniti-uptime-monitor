@@ -4,18 +4,19 @@
     "url": "https://api.appset.nl/v1/Businesses/trinitisolutions",
     "icon": "https://icons.duckduckgo.com/ip3/api.appset.nl.ico",
     "slug": "businesses-modules-products-services-orders",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 410,
-    "timeDay": 326,
-    "timeWeek": 383,
+    "time": 409,
+    "timeDay": 345,
+    "timeWeek": 380,
     "timeMonth": 389,
     "timeYear": 407,
     "dailyMinutesDown": {
+      "2024-09-24": 0,
       "2024-08-06": 20,
       "2023-11-16": 21
     }
@@ -102,18 +103,19 @@
     "url": "https://api.appset.nl/v1/Calipso/customers",
     "icon": "https://icons.duckduckgo.com/ip3/api.appset.nl.ico",
     "slug": "calipso-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 108,
-    "timeDay": 81,
-    "timeWeek": 108,
+    "timeDay": 90,
+    "timeWeek": 107,
     "timeMonth": 106,
     "timeYear": 107,
     "dailyMinutesDown": {
+      "2024-09-24": 0,
       "2023-11-16": 22
     }
   }
