@@ -1,7 +1,7 @@
 url: https://api.appset.nl/v1/Calipso/customers
-status: down
-code: 502
-responseTime: 81
-lastUpdated: 2024-09-25T07:43:36.502Z
+status: up
+code: 404
+responseTime: 91
+lastUpdated: 2024-09-25T07:50:56.658Z
 startTime: 2023-01-28T08:58:56.000Z
 generator: Upptime <https://github.com/upptime/upptime>
