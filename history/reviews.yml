@@ -1,7 +1,7 @@
 url: https://api.appset.nl/v1/likes
-status: up
-code: 200
-responseTime: 977
-lastUpdated: 2024-10-05T23:09:07.963Z
+status: down
+code: 503
+responseTime: 81
+lastUpdated: 2024-10-05T23:40:04.142Z
 startTime: 2023-01-28T08:58:54.000Z
 generator: Upptime <https://github.com/upptime/upptime>
