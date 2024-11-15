@@ -11,18 +11,17 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.68%",
     "time": 439,
-    "timeDay": 296,
-    "timeWeek": 411,
-    "timeMonth": 770,
-    "timeYear": 425,
+    "timeDay": 386,
+    "timeWeek": 422,
+    "timeMonth": 773,
+    "timeYear": 426,
     "dailyMinutesDown": {
       "2024-10-29": 19,
       "2024-10-26": 18,
       "2024-10-12": 1006,
       "2024-10-11": 568,
       "2024-09-24": 23,
-      "2024-08-06": 20,
-      "2023-11-16": 21
+      "2024-08-06": 20
     }
   },
   {
@@ -37,7 +36,7 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.69%",
     "time": 139,
-    "timeDay": 83,
+    "timeDay": 86,
     "timeWeek": 111,
     "timeMonth": 324,
     "timeYear": 147,
@@ -45,8 +44,7 @@
       "2024-10-26": 18,
       "2024-10-12": 1006,
       "2024-10-11": 568,
-      "2024-09-28": 16,
-      "2023-11-16": 22
+      "2024-09-28": 16
     }
   },
   {
@@ -61,10 +59,10 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.64%",
     "time": 445,
-    "timeDay": 83,
+    "timeDay": 87,
     "timeWeek": 111,
     "timeMonth": 155,
-    "timeYear": 372,
+    "timeYear": 368,
     "dailyMinutesDown": {
       "2024-10-26": 18,
       "2024-10-12": 1006,
@@ -81,8 +79,7 @@
       "2023-12-11": 22,
       "2023-12-09": 18,
       "2023-11-28": 21,
-      "2023-11-21": 20,
-      "2023-11-16": 22
+      "2023-11-21": 20
     }
   },
   {
@@ -91,23 +88,22 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.appset.nl.ico",
     "slug": "reviews",
     "status": "up",
-    "uptime": "99.82%",
+    "uptime": "99.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.69%",
-    "time": 917,
-    "timeDay": 87,
-    "timeWeek": 541,
-    "timeMonth": 614,
-    "timeYear": 920,
+    "time": 916,
+    "timeDay": 746,
+    "timeWeek": 545,
+    "timeMonth": 613,
+    "timeYear": 922,
     "dailyMinutesDown": {
       "2024-10-12": 1006,
       "2024-10-11": 568,
       "2024-09-28": 17,
       "2024-08-06": 20,
-      "2024-07-25": 21,
-      "2023-11-16": 22
+      "2024-07-25": 21
     }
   },
   {
@@ -116,13 +112,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.appset.nl.ico",
     "slug": "calipso-service",
     "status": "up",
-    "uptime": "99.82%",
+    "uptime": "99.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.69%",
     "time": 108,
-    "timeDay": 82,
+    "timeDay": 86,
     "timeWeek": 111,
     "timeMonth": 122,
     "timeYear": 107,
@@ -130,8 +126,7 @@
       "2024-10-29": 19,
       "2024-10-12": 1006,
       "2024-10-11": 568,
-      "2024-09-24": 23,
-      "2023-11-16": 22
+      "2024-09-24": 23
     }
   }
 ]
