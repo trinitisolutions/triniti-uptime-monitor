@@ -1,7 +1,7 @@
 url: https://api.appset.nl/v1/Pages/1
-status: up
-code: 400
-responseTime: 1113
-lastUpdated: 2025-09-13T23:09:10.327Z
+status: down
+code: 503
+responseTime: 81
+lastUpdated: 2025-09-13T23:49:56.273Z
 startTime: 2023-01-28T08:58:52.000Z
 generator: Upptime <https://github.com/upptime/upptime>
