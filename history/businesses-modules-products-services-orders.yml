@@ -1,7 +1,7 @@
 url: https://api.appset.nl/v1/Businesses/trinitisolutions
-status: down
-code: 502
-responseTime: 9693
-lastUpdated: 2026-05-05T10:13:58.443Z
+status: up
+code: 200
+responseTime: 1133
+lastUpdated: 2026-05-05T12:49:30.989Z
 startTime: 2023-01-28T08:58:50.000Z
 generator: Upptime <https://github.com/upptime/upptime>
