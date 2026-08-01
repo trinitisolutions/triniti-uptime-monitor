@@ -4,17 +4,17 @@
     "url": "https://api.appset.nl/v1/Businesses/trinitisolutions",
     "icon": "https://icons.duckduckgo.com/ip3/api.appset.nl.ico",
     "slug": "businesses-modules-products-services-orders",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 894,
-    "timeDay": 406,
-    "timeWeek": 510,
-    "timeMonth": 710,
-    "timeYear": 771,
+    "timeDay": 436,
+    "timeWeek": 505,
+    "timeMonth": 702,
+    "timeYear": 770,
     "dailyMinutesDown": {
       "2025-08-04": 32,
       "2025-09-01": 19,
@@ -23,7 +23,8 @@
       "2026-05-04": 70,
       "2026-05-05": 156,
       "2026-06-23": 16,
-      "2026-06-22": 0
+      "2026-06-22": 0,
+      "2026-08-01": 1
     }
   },
   {
@@ -31,16 +32,16 @@
     "url": "https://api.appset.nl/v1/Pages/1",
     "icon": "https://icons.duckduckgo.com/ip3/api.appset.nl.ico",
     "slug": "pages-blocks",
-    "status": "up",
+    "status": "down",
     "uptime": "99.45%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 244,
-    "timeDay": 411,
-    "timeWeek": 382,
-    "timeMonth": 390,
+    "time": 245,
+    "timeDay": 433,
+    "timeWeek": 391,
+    "timeMonth": 392,
     "timeYear": 281,
     "dailyMinutesDown": {
       "2025-08-12": 47,
@@ -50,7 +51,8 @@
       "2026-01-17": 16,
       "2026-04-18": 30,
       "2026-06-23": 16,
-      "2026-06-22": 0
+      "2026-06-22": 0,
+      "2026-08-01": 1
     }
   },
   {
