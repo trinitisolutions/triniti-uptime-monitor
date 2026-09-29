@@ -2,46 +2,53 @@
 owner: trinitisolutions # Your GitHub organization or username, where this repository lives
 repo: triniti-uptime-monitor # The name of this repository
 
+# Namen van bestaande sites niet wijzigen: upptime leidt de history-slug af van de naam.
 sites:
   - name: Businesses, Modules, Products, Services, Orders
     url: https://api.appset.nl/v1/Businesses/trinitisolutions
     expectedStatusCodes:
       - 200
-      - 201
-      - 404
   - name: Pages/Blocks
-    url: https://api.appset.nl/v1/Pages/1
+    url: https://api.appset.nl/v1/pages/Businesses/trinitisolutions
     expectedStatusCodes:
       - 200
-      - 201
-      - 400
-      - 404
+  # Images draait in productie nog op de build van 2025-08; die heeft geen publieke GET
+  # die een 200 geeft. Toevoegen zodra /v1/images/thumbnails/{path} live staat.
   # - name: Images
-  #   url: https://api.appset.nl/v1/images/imageUpload/fileUrl
+  #   url: https://api.appset.nl/v1/images/thumbnails/...
   - name: Appointments
-    url: https://api.appset.nl/v1/appointments/1
+    url: https://api.appset.nl/v1/businesses/trinitisolutions/AppointmentConfigurations
     expectedStatusCodes:
       - 200
-      - 201
-      - 400
-      - 404
   - name: Reviews
-    url: https://api.appset.nl/v1/likes
+    url: https://api.appset.nl/v1/likes?businessName=trinitisolutions
     expectedStatusCodes:
       - 200
-      - 201
-      - 400
-      - 404
+  - name: Posts
+    url: https://api.appset.nl/v1/businesses/trinitisolutions/posts
+    expectedStatusCodes:
+      - 200
+  # Monitor heeft alleen POST-endpoints; een 405 komt van de service zelf (core zou 404 geven).
+  - name: Monitor
+    url: https://api.appset.nl/v1/events
+    expectedStatusCodes:
+      - 405
+  # Notifications en PIMS kaas hebben geen anonieme GET; een 401 komt van de service zelf.
+  - name: Notifications
+    url: https://api.appset.nl/v1/notifications/preferences
+    expectedStatusCodes:
+      - 401
+  - name: PIMS kaas
+    url: https://api.appset.nl/v1/pimskaas/Subscriptions
+    expectedStatusCodes:
+      - 401
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: demo.upptime.js.org
   baseUrl: /triniti-uptime-monitor
-  logoUrl: https://www.appset.nl/logo%20V2%20with%20solutions%20v2%20trans.png
+  logoUrl: https://cdn.appset.nl/businesses/appset/c3add698-a0a3-4e39-8d1f-56400c48f851.png
   name: Triniti Solutions Platform
   introTitle: "Uptime information of the Triniti Solutions Platform"
-  introMessage: This page shows the uptime information of all the relevent services of the Triniti Solutions Platform
+  introMessage: This page shows the uptime information of all the relevant services of the Triniti Solutions Platform
   navbar:
     - title: Home
       href: https://appset.nl
@@ -49,6 +56,3 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
