@@ -1,7 +1,7 @@
-url: https://api.appset.nl/v1/likes
+url: https://api.appset.nl/v1/likes?businessName=trinitisolutions
 status: up
 code: 200
-responseTime: 591
-lastUpdated: 2026-09-29T02:25:05.310Z
+responseTime: 647
+lastUpdated: 2026-09-29T12:28:24.136Z
 startTime: 2023-01-28T08:58:54.000Z
 generator: Upptime <https://github.com/upptime/upptime>
