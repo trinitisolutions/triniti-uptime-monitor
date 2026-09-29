@@ -46,7 +46,7 @@ sites:
 status-website:
   baseUrl: /triniti-uptime-monitor
   logoUrl: https://cdn.appset.nl/businesses/appset/c3add698-a0a3-4e39-8d1f-56400c48f851.png
-  name: Triniti Solutions Platform
+  name: Appset Platform
   introTitle: "Uptime information of the Triniti Solutions Platform"
   introMessage: This page shows the uptime information of all the relevant services of the Triniti Solutions Platform
   navbar:
